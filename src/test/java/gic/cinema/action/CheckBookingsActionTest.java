@@ -2,6 +2,7 @@ package gic.cinema.action;
 
 import gic.cinema.APP_CONSTANTS;
 import gic.cinema.TestHelper;
+import gic.cinema.action.impl.CheckBookingsAction;
 import gic.cinema.components.CinemaHall;
 import gic.cinema.input.model.impl.CheckBookingsInput;
 import gic.cinema.input.util.InputOutputUtil;

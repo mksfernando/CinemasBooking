@@ -2,6 +2,7 @@ package gic.cinema.action;
 
 import gic.cinema.APP_CONSTANTS;
 import gic.cinema.TestHelper;
+import gic.cinema.action.impl.BookTicketsAction;
 import gic.cinema.components.CinemaHall;
 import gic.cinema.input.model.impl.BookTicketsInput;
 import gic.cinema.input.model.impl.ReassignSeatsInput;

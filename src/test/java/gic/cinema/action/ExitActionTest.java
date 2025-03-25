@@ -1,6 +1,7 @@
 package gic.cinema.action;
 
 import gic.cinema.APP_CONSTANTS;
+import gic.cinema.action.impl.ExitAction;
 import gic.cinema.input.util.InputOutputUtil;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;

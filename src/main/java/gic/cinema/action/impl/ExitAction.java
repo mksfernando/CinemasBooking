@@ -1,6 +1,7 @@
-package gic.cinema.action;
+package gic.cinema.action.impl;
 
 import gic.cinema.APP_CONSTANTS;
+import gic.cinema.action.Action;
 import gic.cinema.components.CinemaHall;
 import gic.cinema.input.util.InputOutputUtil;
 

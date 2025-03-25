@@ -1,9 +1,9 @@
 package gic.cinema;
 
 import gic.cinema.action.Action;
-import gic.cinema.action.BookTicketsAction;
-import gic.cinema.action.CheckBookingsAction;
-import gic.cinema.action.ExitAction;
+import gic.cinema.action.impl.BookTicketsAction;
+import gic.cinema.action.impl.CheckBookingsAction;
+import gic.cinema.action.impl.ExitAction;
 import gic.cinema.components.CinemaHall;
 import gic.cinema.input.model.impl.CinemaHallInput;
 import gic.cinema.input.model.impl.OptionInput;
